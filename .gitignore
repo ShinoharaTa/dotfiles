@@ -1,0 +1,20 @@
+# ホワイトリスト形式: まず全て無視し、管理対象のみ許可
+*
+
+# 管理対象
+!.gitignore
+!README.md
+
+# zsh
+!zsh/
+!zsh/.zshrc
+
+# git
+!git/
+!git/.gitconfig
+
+# wezterm
+!wezterm/
+!wezterm/.config/
+!wezterm/.config/wezterm/
+!wezterm/.config/wezterm/**
