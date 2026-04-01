@@ -18,3 +18,9 @@
 !wezterm/.config/
 !wezterm/.config/wezterm/
 !wezterm/.config/wezterm/**
+
+# claude
+!claude/
+!claude/.claude/
+!claude/.claude/settings.json
+!claude/.claude/statusline-command.sh
